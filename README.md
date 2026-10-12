@@ -4,13 +4,13 @@ Hi! I'm **Rana Ibrahim**, a Computer Science student at Suez Canal University, i
 
 I enjoy learning through hands-on projects, exploring datasets, building machine learning models, and turning data into clear, meaningful insights.
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 Explore my portfolio to learn more about my background, skills, projects, and learning journey.
 
 **[Visit My Portfolio](https://Ranaibrahim31.github.io/)**
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. Bank Deposit Classification
 
@@ -44,7 +44,7 @@ A responsive flower shop website built as a front-end development project.
 
 [View Repository](https://github.com/Ranaibrahim31/FlowerShop_website) · [Live Demo](https://Ranaibrahim31.github.io/FlowerShop_website/)
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 **Data Science & Machine Learning**
 
@@ -62,13 +62,13 @@ A responsive flower shop website built as a front-end development project.
 * Object-Oriented Programming (OOP)
 * MySQL Basics
 
-## 🎓 Education & Training
+##  Education & Training
 
 * **Suez Canal University** — Computer Science (2024–2028, expected)
 * **Digital Egypt Pioneers Initiative (DEPI)** — Data Science & AI (Ongoing)
 * **National Telecommunication Institute (NTI)** — Machine Learning Training (2026)
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * **LinkedIn:** [Rana Ibrahim](https://www.linkedin.com/in/rana-ibrahim-8ba535363/)
 * **GitHub:** [Ranaibrahim31](https://github.com/Ranaibrahim31)
